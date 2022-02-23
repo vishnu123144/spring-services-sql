@@ -1,0 +1,52 @@
+debit card:
+
+    --pros---   convinient
+                secure 
+                interest free
+     
+   ---cons--  card declined -- not enough funds
+              
+
+credit card:
+               short term loans -->borrowing money from card isuuer or some bank account
+             pay on time -- fet good credit score and rewards
+             qualifying for lower interest rate on loans
+
+Issuing bank:
+   
+    Every payment card is linked with certain bank is isssuing bank
+    
+   --> Issuing Bank is bank or financila institution that issues payment
+      cards (often under visa or master cards) needed to make electronic
+     card payments.
+
+Merchant: 
+     Merchant is a company that accepts credit or debit card payments.
+
+Acquiring Bank: 
+
+    Acquiring bank is a bank or a financial institution that issues 
+    merchant accounts needed to accept electronic card payments.
+
+Card Network or Brand:
+   
+     It is an electronic network (such as visa or mastercard) that can be used
+    to process electronic payments
+
+payment gateway:
+   
+       securily transfers the information 
+
+      A payment gateway works during online transactions encrypting credit card information
+   as it enters the payment gateway at the time of purchase.
+
+payment proceesor:
+           a payment processor is a company that handles credit card and
+ debit card transactions for a business
+
+  two types of payment processors:
+  
+   1. Front_end processors:
+
+     maintain connections to card networks and settlement services and manage merchant
+ accounts on behalf of their client

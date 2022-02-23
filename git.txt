@@ -1,0 +1,30 @@
+
+staging area: is area which have files which are ready to commit 
+        or ready to push to git
+
+git status:
+
+git add .: add files to staging area.
+
+git commit -m "initial commit": commited change
+
+         git commit addds your changes to local version control datbase.
+  you have still not pushed the changes to remote server.
+
+git log: will show log of commit history.
+
+git push:  push data to cloud or remote server
+
+git difftool HEAD OR vimdiff: it is used to see the difference b/w your local changes and previous version of file
+
+git checkout -- .: undo or remove the changes which are not commited
+
+git branch branchname: create branch
+
+git checkout branchname: switched to particular branch 
+
+git branch -d branchname: delete a branch
+
+HEAD is a reference to the most recent common in current branch(in most of cases)
+
+git show HEAD:
